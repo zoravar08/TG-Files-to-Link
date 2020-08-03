@@ -16,8 +16,8 @@
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
       "value": ""
   },
-   "TG_SESSION_NAME": {
-      "description": "Run Console this (python3 GenerateStringSession.py) ",
+   "TG_BOT_FATHER_TOKEN": {
+      "description": "Your bot token, as a string.",
       "value": ""
   },
    "HOST": {
